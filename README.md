@@ -1,1 +1,3 @@
-# team-project-lab
+# Team Project Outline
+1. Collaborator A Feature
+2. Collaborator B Feature
